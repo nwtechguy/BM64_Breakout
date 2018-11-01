@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name bm64)(type Legacy)(uri /home/john/Projects/BM64_Breakout/hardware/bm64.lib)(options "")(descr ""))
+)
