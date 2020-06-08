@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name bm64)(type Legacy)(uri /home/john/Projects/BM64_Breakout/hardware/bm64.lib)(options "")(descr ""))
+  (lib (name bm64)(type Legacy)(uri ${KIPRJMOD}/bm64.lib)(options "")(descr ""))
+  (lib (name BM64_Breakout-rescue)(type Legacy)(uri ${KIPRJMOD}/BM64_Breakout-rescue.lib)(options "")(descr ""))
 )
